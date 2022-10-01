@@ -32,7 +32,7 @@ Publications
 
 Conference Activity
 ======
-* Cachia, J. Y. A., Uchida, Y. & Tsai, J. L. (2022, July). “Passive or Critical Partner Responses to Good News are Associated with Lower Relationship Satisfaction among European Americans but not Japanese.” In Schouten, A (chair). Cross-Cultural Perspectives on Emotions and Coping in Close Relationship. Symposium conducted at the Annual International Society for Research on Emotion.
+* Cachia, J. Y. A., Uchida, Y. & Tsai, J. L. (2022, July). “Passive or Critical Partner Responses to Good News are Associated with Lower Relationship Satisfaction among European Americans but not Japanese.” In Schouten, A (chair). *Cross-Cultural Perspectives on Emotions and Coping in Close Relationship.* Symposium conducted at the Annual International Society for Research on Emotion.
 * Cachia, J. Y. A., Uchida, Y., & Tsai, J. L. (2022, March). The Ideal Development of Passion Over the Course of a Romantic Relationship: Cultural Differences Among European Americans and Japanese. Poster presented at the 9th Annual Conference of the Society for Affective Science (virtual).
 * Cachia, J. Y. A., Uchida, Y., & Tsai, J. L. (2022, February). Partners’ “Negative” Responses to Good News Hurt American But Not Japanese Relationships. Poster presented at the 23rd Annual Conference of the Society for Personality and Social Psychology, San Francisco, California.
 * Cachia, J. Y. A. & Tsai, J. L. (2021, July). “Cultural differences in the emotional content of popular love songs: A comparison of U.S. and Japan.” In Liew, K (chair). A Cultural Psychological Perspective to Music Preference in Contemporary Society. Symposium conducted at the 16th Annual International Conference on Music Perception and Cognition (virtual).
@@ -48,15 +48,38 @@ Conference Activity
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Invited Talks
+	* When Your Smile Matters: The Role of Culture, Ideal Affect, and Reputation on Trust, New York University (2021)
+	* The Role of Culture and Ideal Affect in Romantic Relationships, New York University (2019)
+	* The Culture of Communication: When is it Beneficial? University of Hamburg (2015)
+
+* Campus and Departmental Talks
+	* How Does Culture Influence Our Relationships?, guest lecture given at Stanford University, Introduction to Personality and Affective Science (2022)
+	* Building Student Motivation in the Classroom, workshop at Stanford University, Leadership in Inclusive Teaching (LIT) Fellowship Program (2021)
+	* Preregistration and Registered Reports, guest lecture given at Stanford University, Experimental Methods (2021)
+	* Version Control and Github, guest lecture given at Stanford University, Experimental Methods (2021)
+	* Open Science Workshop: Why and How to Preregister, Stanford University, Quantitative Sciences Unit (QSU) Brown Bag (2021)
+	* When Your Smile Matters: The Role of Culture, Ideal Affect, and Reputation on Trust, Stanford University, Affective Science Seminar (2020)
+	* Teaching Online During COVID-19, Stanford University, Teaching Town Hall (2020)
+	* Personality and Affect in Relationships, guest lecture given at Stanford University, Introduction to Personality and Affective Science (2020)
+	* Version Control and Github, guest lecture given at Stanford University, Experimental Methods (2020)
+	* Version Control and Github, guest lecture given at Stanford University, Experimental Methods (2019)
+	* Does it Feel Right? Culture and the Importance of Excitement in Romantic Love, Stanford University, Affective Science Seminar (2019)
+	* Using MCII to Strengthen Relationship Commitment: The Role of Developmental Goals, New York University, Motivation Lab (2017)
+	* Regulating Relationship Commitment Using Mental Contrasting with Implementation Intentions (MCII): The Moderating Role of Obstacles, New York University, Motivation Lab (2015)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Stanford University
+	* Leadership in Inclusive Teaching (LIT) Fellow (2021 – 2022)
+	* Experimental Methods (Fall 2019, Fall 2020, Fall 2021)                                     
+	* Learning and Memory (Spring 2020)                                                        
+	* Introduction to Personality and Affective Science (Winter 2020, Winter 2022)
+
+* New York University
+	* Advanced Psychological Statistics (Fall 2016, Spring 2017, Fall 2017) 
+	* Social Psychology (Spring 2016) 
+	* Cognitive Neuroscience (Fall 2015)
   
 Awards, grants and fellowships
 ======
@@ -77,3 +100,7 @@ Service and leadership
 * Poster session judge, Stanford Research Conference (2019)
 * Volunteer, Paths to PhD (2019)
 * Stanford Graduate Class Representative (2018-2019)
+
+Languages
+======
+English, French, Japanese
