@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.A. in Psychology, minor in French, New York University, 2015
-* M.A. in Research and Experimental Psychology, New York University, 2017
-* M.A. in Psychology, Stanford University, 2021
 * Ph.D in Psychology (Affective Science), Stanford University, 2023 (expected)
+* M.A. in Psychology, Stanford University, 2021
+* M.A. in Research and Experimental Psychology, New York University, 2017
+* B.A. in Psychology, minor in French, New York University, 2015
 
 Publications
 ======
