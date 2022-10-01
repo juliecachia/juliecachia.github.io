@@ -18,10 +18,18 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Refeereed Journal Articles
+	* Fülöp, F., Böthe, B., Gàl, É., Cachia, J. Y. A., Demetrovics, Z., & Orosz, G. (2020). A two-study validation of a single-item measure of relationship satisfaction: RAS-1. *Current Psychology*, 1-13. 
+
+* Book Chapters
+	* Oettingen, G., & Cachia, J. Y. A. (2016). Problems with positive thinking and how to overcome them. In K. D. Vohs & R. F. Baumeister (Eds.). *Handbook of self-regulation* (3rd ed.). New York: Guilford. 
+
+* Manuscripts in Submission
+	* Cachia, J. Y. A. & Tsai, J. L. (2022). The cultural logic of models of self and emotion. In J. De Leersnyder (Ed.), *The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of culture and emotion.* Cambridge University Press. 
+	
+* Manuscripts in Preparation
+	* Cachia, J. Y. A., Blevins, E., Ko, M., Knutson, B., Chen, Y., Tsai, J. L. (2021). *When your smile matters: The role of culture, ideal affect, and reputation on trust.* Manuscript in preparation.
+
 Conference Activity
 ======
 * Cachia, J. Y. A., Uchida, Y. & Tsai, J. L. (2022, July). “Passive or Critical Partner Responses to Good News are Associated with Lower Relationship Satisfaction among European Americans but not Japanese.” In Schouten, A (chair). Cross-Cultural Perspectives on Emotions and Coping in Close Relationship. Symposium conducted at the Annual International Society for Research on Emotion.
