@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julie Y. A. Cachia"
+title                    : "Julie Youko Anne Cachia"
 title_separator          : "-"
-name                     : &name "Julie Y. A. Cachia"
+name                     : &name "Julie Youko Anne Cachia"
 description              : &description "PhD Candidate in Psychology at Stanford University"
 url                      : https://juliecachia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julie Youko Anne Cachia"
+  name             : "Julie Y. A. Cachia"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Psychology"
   location         : "Stanford, CA & Kyoto, Japan"
