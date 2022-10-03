@@ -2,10 +2,10 @@
 main:  
     
   - title: "Research"
-    url: /publications/
+    url: /cv/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /cv/
 
   - title: "CV"
     url: /cv/
