@@ -64,7 +64,7 @@ const Index = () => {
                   </span>
                 </a>
                 <a 
-                  href="https://scholar.google.com/citations?user=6Z2f-JUAAAAJ&hl=en" 
+                  href="https://scholar.google.com/citations?user=nEGyuZMAAAAJ&hl=en"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="group text-muted-foreground hover:text-foreground transition-all duration-300 flex items-center gap-2"
@@ -192,7 +192,7 @@ const Index = () => {
 
             {/* Research & Science */}
             <a 
-              href="https://scholar.google.com/citations?user=6Z2f-JUAAAAJ&hl=en" 
+              href="https://scholar.google.com/citations?user=nEGyuZMAAAAJ&hl=en"
               target="_blank" 
               rel="noopener noreferrer"
               className="group glass-card p-8 md:p-10 rounded-2xl hover:shadow-elevated transition-all duration-500 hover:-translate-y-1"
@@ -331,7 +331,7 @@ const Index = () => {
             </a>
             <span className="text-border text-sm">·</span>
             <a 
-              href="https://scholar.google.com/citations?user=6Z2f-JUAAAAJ&hl=en" 
+              href="https://scholar.google.com/citations?user=nEGyuZMAAAAJ&hl=en"
               target="_blank" 
               rel="noopener noreferrer"
               className="group text-muted-foreground hover:text-foreground transition-colors duration-300 text-sm"
